@@ -1,6 +1,7 @@
 Hello world for github
 
 Here we created about jsx and react own format
+React first creates a DOM node for each element, fills in its content and attributes, and then adds it to the document.
 
 <!-- package-lock-json - is  lock the dependency which curse that this website will be run only in this version
 dependency ka stable version lock kardiya jata he
